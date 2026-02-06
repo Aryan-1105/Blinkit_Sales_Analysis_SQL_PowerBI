@@ -205,7 +205,6 @@ GROUP BY Outlet_Size;
 
 ![Dashboard Overview](Images/DashBorad_Overview.png)
 
-*Main dashboard showing all KPIs and visualizations*
 
 ### **DAX Measures Created**
 
@@ -255,8 +254,6 @@ DIVIDE(
 
 ### **Visualizations Breakdown**
 
-![Chart](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/Charts.png)
-
 #### 1. **Fat Content Analysis**
 ![Fat Content Chart](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/b5bf564caf4fe0879d27d1f654dd01d392ef7edc/Images/FC.png)
 
@@ -265,7 +262,7 @@ DIVIDE(
 - Regular products contribute 35.4% of total sales
 
 #### 2. **Item Type Performance**
-![Item Type Analysis](path/to/item_type_chart.png)
+![[Item Type Analysis](path/to/item_type_chart.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/dd3e499771e660bfafc4ffaf4c55039baeffae1a/Images/Item_Type.png)
 
 - **Horizontal Bar Chart** displaying sales by product category
 - Top performers:
@@ -274,7 +271,7 @@ DIVIDE(
   - Household Items: $0.14M
 
 #### 3. **Outlet Establishment Trend**
-![Outlet Establishment Trend](Images/year.png)
+![[Outlet Establishment Trend](Images/year.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/dd3e499771e660bfafc4ffaf4c55039baeffae1a/Images/Outlet_Establishment.png)
 
 - **Line Chart** showing sales growth from 2012 to 2022
 - Peak sales: $205K (2018)
