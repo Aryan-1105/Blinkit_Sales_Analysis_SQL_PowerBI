@@ -536,7 +536,7 @@ This project is licensed under the MIT License - feel free to use this project f
 
 ### ⭐ If you found this project helpful, please give it a star!
 
-**Made with ❤️ and ☕ by [Aryan Kumar Sahoo]**
+**Made with ❤️ and ☕ by Aryan Kumar Sahoo**
 
 *Last Updated: February 2026*
 
