@@ -258,7 +258,7 @@ DIVIDE(
 ![Chart](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/Charts.png)
 
 #### 1. **Fat Content Analysis**
-![Fat Content Chart](path/to/fat_content_chart.png)
+![Fat Content Chart](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/b5bf564caf4fe0879d27d1f654dd01d392ef7edc/Images/FC.png)
 
 - **Donut Chart** showing sales split between Low Fat ($776K) and Regular ($425K)
 - Low Fat products contribute 64.6% of total sales
