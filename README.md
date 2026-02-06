@@ -203,7 +203,7 @@ GROUP BY Outlet_Size;
 
 ### **Dashboard Preview**
 
-![Dashboard Overview][(path/to/dashboard_screenshot.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/KPI_Cards.png)
+![Dashboard Overview](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/KPI_Cards.png)
 *Main dashboard showing all KPIs and visualizations*
 
 ### **DAX Measures Created**
@@ -244,7 +244,7 @@ DIVIDE(
   - Item Type (All/Fruits/Snacks/Dairy/etc.)
 
 - **KPI Cards** (Top Section)
-![KPI]https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/KPI_Cards.png
+![KPI](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/KPI_Cards.png)
 
   - Total Sales: $1.20M
   - Average Sales: $141
@@ -252,7 +252,7 @@ DIVIDE(
   - Average Rating: 3.9 ⭐
 
 ### **Visualizations Breakdown**
-![Chart]https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/Charts.png
+![Chart](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/Charts.png)
 
 #### 1. **Fat Content Analysis**
 ![Fat Content Chart](path/to/fat_content_chart.png)
