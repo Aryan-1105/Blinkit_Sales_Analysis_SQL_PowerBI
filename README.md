@@ -274,7 +274,7 @@ DIVIDE(
   - Household Items: $0.14M
 
 #### 3. **Outlet Establishment Trend**
-![Outlet Establishment Trend](path/to/outlet_trend_chart.png)
+![Outlet Establishment Trend](Images/year.png)
 
 - **Line Chart** showing sales growth from 2012 to 2022
 - Peak sales: $205K (2018)
