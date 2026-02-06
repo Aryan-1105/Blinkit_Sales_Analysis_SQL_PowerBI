@@ -281,7 +281,7 @@ DIVIDE(
 - Recent stabilization around $131K (2022)
 
 #### 4. **Fat Content by Outlet Type**
-![Fat by Outlet](path/to/fat_by_outlet.png)
+![(path/to/fat_by_outlet.png](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/f50dcceea54e10530157a5089498cf5d6b10c85d/Images/Fat_Outlet.png)
 
 - **Stacked Bar Chart** comparing Low Fat vs Regular sales across outlet tiers
 - All tiers show preference for Low Fat products
