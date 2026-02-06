@@ -284,7 +284,7 @@ DIVIDE(
 - All tiers show preference for Low Fat products
 
 #### 5. **Outlet Size Distribution**
-![Outlet Size](path/to/outlet_size_chart.png)
+![[Outlet Size](path/to/outlet_size_chart.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/9846d93c49de63c1232ecad4a06513c5ef37a952/Images/Outlet_Size.png)
 
 - **Donut Chart** showing sales distribution:
   - Medium: $249K (42.3%)
@@ -292,7 +292,7 @@ DIVIDE(
   - High: $508K (20.7%)
 
 #### 6. **Outlet Location Performance**
-![Outlet Location](path/to/outlet_location_chart.png)
+![[Outlet Location](path/to/outlet_location_chart.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/9846d93c49de63c1232ecad4a06513c5ef37a952/Images/Outlet_Location.png)
 
 - **Horizontal Bar Chart** by location tier:
   - Tier 3: $472.13K
@@ -300,7 +300,7 @@ DIVIDE(
   - Tier 1: $336.40K (Highest performance percentage at 71.3%)
 
 #### 7. **Outlet Type Comparison Table**
-![Outlet Type Table](path/to/outlet_type_table.png)
+![[Outlet Type Table](path/to/outlet_type_table.png)](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/9846d93c49de63c1232ecad4a06513c5ef37a952/Images/Outlet_Type.png)
 
 Comprehensive table showing all metrics by outlet type:
 
