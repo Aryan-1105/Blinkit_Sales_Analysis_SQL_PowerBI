@@ -203,7 +203,7 @@ GROUP BY Outlet_Size;
 
 ### **Dashboard Preview**
 
-![Dashboard Overview](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI/blob/3966a4e1da9648821514d629318a8a348d1d3c45/Images/DashBoard_Overview.png)
+![Dashboard Overview](Images/DashBorad_Overview.png)
 
 *Main dashboard showing all KPIs and visualizations*
 
